@@ -1,0 +1,133 @@
+---
+title: "| Ecoinformática: nuevo grupo de trabajo de la Asociación Española de Ecología Terrestre \n| Ecoinformatics: new working group within the Spanish Terrestrial Ecology Association\n"
+  
+author: Francisco Rodríguez-Sánchez^1^, Antonio Jesús Pérez-Luque^2^, Ignasi Bartomeus^1^, Sara Varela^3^
+  
+output:
+  word_document:
+    fig_caption: yes
+    fig_height: 6
+    fig_width: 7.5
+    highlight: null
+    reference_docx: Ecosistemas_template.docx
+    
+csl: ecosistemas.csl
+bibliography: 
+  - references.bib
+  - knitcitations.bib
+---
+
+
+> (1) Departamento de Ecología Integrativa, Estación Biológica de Doñana (EBD-CSIC), Consejo Superior de Investigaciones Científicas, Avda. Américo Vespucio s/n, E-41092 Sevilla, España.
+
+> (2) Laboratorio de Ecología (iEcolab), Instituto Interuniversitario Sistema Tierra (CEAMA), Universidad de Granada, Avda. del Mediterráneo s/n, Granada 18006, España.
+
+> (3) Departamento de Ciencias de la Vida, Facultad de Biología, Ciencias Ambientales y Química, Universidad de Alcalá, Campus Universitario. Ctra. Madrid-Barcelona, Km. 33,600, 28805 Alcalá de Henares, Madrid, España.
+
+> Dirección de contacto: [ecoinf.aeet@gmail.com]
+
+
+
+```{r knitcitations, echo=FALSE, cache = FALSE}
+library(knitcitations)
+cleanbib()   
+cite_options(citation_format = "pandoc")
+```
+
+
+
+
+
+
+
+
+# Referencias
+
+Aquí va la lista de referencias citadas (moverla desde el final del documento).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###### TABLA 1
+
+**Tabla 1**. Cada tabla debe aportar su correspondiente encabezamiento explicativo. En los Artículos de investigación, de revisión y Comunicaciones breves se aportarán los encabezamientos tanto en castellano como en inglés, en letra Arial 10 y en página independiente. Es importante que sean simples y que no superen el ancho una página DIN A4 vertical. Los originales se deben aportar en formato tabla y no en formato imagen. 
+
+**Table 1**. Table heading in English. 
+
+```{r Tabla1, results='asis', echo=FALSE, cache=FALSE}
+library("knitr")
+kable(head(iris))
+```
+
+
+
+
+
+###### PIES DE FIGURA
+
+**Figura 1**. Pie de figura 1. 
+
+**Figura 2**. Pie de figura 2.
+
+
+
+
+
+###### FIGURE LEGENDS
+
+**Figure 1**. Figure caption.
+
+**Figure 2**. Figure caption.
+
+
+
+
+
+###### FIGURA 1
+
+```{r Fig1, echo=FALSE, fig.cap="Figura 1. Esto es un ejemplo.", cache=FALSE}
+x <- rnorm(100)
+y <- jitter(x, 1000)
+plot(x, y)
+```
+
+
+
+###### FIGURA 2
+
+```{r Fig2, echo=FALSE, fig.cap="Figura 2. Segundo ejemplo", cache=FALSE}
+a <- sort(rnorm(100))
+b <- c(rep("Group Small", 35), rep("Group Big", 65))
+boxplot(a ~ b)
+```
+
+
+###### REFERENCIAS
+
+```{r write_citations, cache=FALSE, include=FALSE}
+write.bibtex(file="knitcitations.bib")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
