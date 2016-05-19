@@ -24,13 +24,7 @@ csl: ecosistemas.csl
 > Dirección de contacto: [ecoinf.aeet@gmail.com]
 
 
-La ecología actual, como otras disciplinas científicas, tiene casi siempre un componente importante de computación. Desde un sencillo análisis estadístico de datos hasta la realización de simulaciones estocásticas complejas, casi todos los ecólogos necesitan interaccionar en mayor o menor medida con una computadora. Hasta el punto de que el perfil 'clásico' del científico como especialista en un campo muy concreto de conocimiento se está transformando en un perfil más polifacético (en forma de pi, **Fig. 1**) donde, además del conocimiento profundo de su área de investigación, se requieren habilidades de estadística y programación avanzada. 
-
-![](https://jakevdp.github.io/images/pi_shaped.png)
-
-Figura 1. LEYENDA (https://jakevdp.github.io/blog/2014/08/22/hacking-academia/)
-
-Sin embargo, la formación de los ecólogos en aspectos tales como el manejo de bases de datos, análisis de datos, modelización, programación, etc. ha sido tradicionalmente muy deficiente. Esto no sólo acarrea retrasos y problemas en la ejecución de los proyectos de investigación, sino que también limita el potencial y alcance de los mismos. 
+La ecología actual, como otras disciplinas científicas, tiene casi siempre un componente importante de computación. Desde un sencillo análisis estadístico de datos hasta la realización de simulaciones estocásticas complejas, casi todos los ecólogos necesitan interaccionar en mayor o menor medida con una computadora. Sin embargo, hasta ahora la formación de los ecólogos en aspectos tales como el manejo de bases de datos, análisis de datos, modelización, programación, etc. ha sido escasa. Esto no sólo acarrea retrasos y problemas en la ejecución de los proyectos de investigación, sino que también limita el potencial y alcance de los mismos. 
 
 Motivados por esta situación, se acaba de crear dentro de la Asociación Española de Ecología Terrestre (AEET) un nuevo grupo de trabajo sobre Ecoinformática (http://www.aeet.org/EcoInformatica_383_p.htm). Este grupo de trabajo pretende fomentar el intercambio de experiencias y conocimientos sobre cualquier aspecto relacionado con la ecoinformática (en sentido amplio, incluyendo manejo y análisis de datos, simulaciones, modelización, y programación), además de contribuir a la formación de los nuevos ecólogos en buenas prácticas y técnicas de computación que les permitan desarrollar al máximo sus proyectos de investigación. Entre los objetivos del grupo también se encuentra el de promover la ciencia abierta y reproducible. 
 
