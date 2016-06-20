@@ -26,9 +26,9 @@ La ecología actual, como otras disciplinas científicas, tiene casi siempre un 
 
 Sin embargo, la formación de los ecólogos en aspectos tales como el manejo de bases de datos, análisis de datos, modelización, programación, etc. ha sido tradicionalmente muy deficiente. Esto no sólo acarrea retrasos y problemas en la ejecución de los proyectos de investigación, sino que también limita el potencial y alcance de los mismos. 
 
-Motivados por esta situación, se acaba de crear dentro de la Asociación Española de Ecología Terrestre (AEET) un nuevo grupo de trabajo sobre Ecoinformática (http://www.aeet.org/EcoInformatica_383_p.htm; **Fig. 1**). Este grupo de trabajo pretende fomentar el intercambio de experiencias y conocimientos sobre cualquier aspecto relacionado con la ecoinformática (en sentido amplio, incluyendo manejo y análisis de datos, simulaciones, modelización y programación), además de contribuir a la formación de los nuevos ecólogos en buenas prácticas y técnicas de computación que les permitan desarrollar al máximo sus proyectos de investigación. 
+Motivados por esta situación, se acaba de crear dentro de la Asociación Española de Ecología Terrestre (AEET) un nuevo grupo de trabajo sobre Ecoinformática (http://www.aeet.org/EcoInformatica_383_p.htm; **Fig. 1**). Este grupo de trabajo pretende fomentar el intercambio de experiencias y conocimientos sobre cualquier aspecto relacionado con la ecoinformática (en sentido amplio, incluyendo manejo y análisis de datos, simulaciones, modelización y programación), además de contribuir a la formación de los nuevos ecólogos en buenas prácticas y técnicas de computación que les permitan desarrollar al máximo sus proyectos de investigación. Entre los objetivos del grupo también se encuentra el de promover la ciencia abierta y reproducible. 
 
-Entre los objetivos del grupo también se encuentra el de promover la ciencia abierta y reproducible. Para ello, los actuales coordinadores hemos escrito una revisión para *Ecosistemas* sobre qué es la ciencia reproducible, por qué es importante, y cómo podemos mejorar la reproducibilidad de nuestra investigación (Rodríguez-Sánchez et al. 2016).
+Para alcanzar estos objetivos contamos con la participación de todos los interesados para organizar diferentes iniciativas y  actividades. Para empezar, los actuales coordinadores hemos escrito una revisión para *Ecosistemas* sobre qué es la ciencia reproducible, por qué es importante, y cómo podemos mejorar la reproducibilidad de nuestra investigación (Rodríguez-Sánchez et al. 2016). 
 
 Además se prevé la organización de cursos y talleres así como simposios relacionados con la ecoinformática en los congresos de la AEET. Para el próximo congreso AEET-MEDECOS ya está aceptado un simposio sobre 'Ecoinformatics: data science brings new avenues for ecology'. Se ha creado una cuenta de twitter (@ecoinf_aeet) y una lista de correo (https://groups.google.com/forum/#!forum/ecoinformatica_aeet) para compartir conocimientos y organizar nuevas actividades. Además existe una cuenta de correo específica para contactar con los coordinadores del grupo de trabajo: ecoinf.aeet@gmail.com.
 
@@ -38,6 +38,7 @@ Desde su creación hace tan solo unos meses, la iniciativa ha tenido muy buena a
 # Referencias
 
 Rodríguez-Sánchez, F., Pérez-Luque, A.J., Bartomeus, I., Varela, S. 2016. Ciencia reproducible: qué, por qué, cómo. *Ecosistemas*, en prensa. 
+
 
 
 ###### PIES DE FIGURA
